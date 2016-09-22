@@ -1,0 +1,5 @@
+{
+  "name": "Collector",
+  "description": "A Twilio-powered link collector for text messages.",
+  "keywords": ["node", "twilio", "bot"],
+}
